@@ -18,11 +18,8 @@ public class LargetsElements {
             }
             large[j] = max;
             array[index] = Integer.MIN_VALUE;
-
             System.out.println("Largest" + j + ":" + large[j]);
-
         }
-
     }
 }
 
